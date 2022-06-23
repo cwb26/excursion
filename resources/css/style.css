@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    background-image: url("./resources/excursion.png");
+}
+
+h1,h2,h3{
+    color:aliceblue;
+    text-align: center;
+}
+
+a{
+    color: aquamarine;
+}
+
+div{
+    text-align: center;
+}
+p{
+    color: beige;
+    text-align: center;
+}
